@@ -1,0 +1,4 @@
+O projeto foi criado utilizando o Framework Robot Framework 4.1.3 (Python 3.10.2 on win32)
+A pasta "results" dentro do projeto, contém todo o relatório de execução + os screenshots solicitados no desafio.
+Para executar o projeto basta ter instalado o Robot Framework 4.1.3 (Python 3.10.2 on win32), clonar o projeto e executar utilizando um terminal
+de algum editor de texto ou IDE a seguinte linha: robot -d ./results tests\TestSiteFormulario.robot
